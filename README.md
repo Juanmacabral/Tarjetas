@@ -1,8 +1,6 @@
 # Tarjetas
-Trabajo Resumen Tarjetas
-
-Primera subida con unicamente el pivot table del archivo de tarjetas
-Resta armar un archivo por cada tarjeta
+Trabajo liquidacion de tarjetas mensual
+Tomo como referencia Octubre 2022
 
 Tarjetas armadas:
 
