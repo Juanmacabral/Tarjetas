@@ -1,12 +1,3 @@
 # Tarjetas
-Trabajo liquidacion de tarjetas mensual
-Tomo como referencia Octubre 2022
+Trabajo liquidacion mensual de tarjetas
 
-Tarjetas armadas:
-
-Maestro
-Martercard Debit
-Visa Debito
-Mastercard
-visa credito
-Nativa
